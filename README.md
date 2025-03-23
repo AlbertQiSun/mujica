@@ -1,7 +1,3 @@
-<h1>
-  <a href="#"><img alt="MuJoCo" src="banner.png" width="100%"/></a>
-</h1>
-
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Logo_of_Ave_Mujica_anime.jpg/500px-Logo_of_Ave_Mujica_anime.jpg"/>
 </p>
