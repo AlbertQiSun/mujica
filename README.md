@@ -3,18 +3,10 @@
 </h1>
 
 <p>
-  <a href="https://github.com/google-deepmind/mujoco/actions/workflows/build.yml?query=branch%3Amain" alt="GitHub Actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/google-deepmind/mujoco/build.yml?branch=main">
-  </a>
-  <a href="https://mujoco.readthedocs.io/" alt="Documentation">
-    <img src="https://readthedocs.org/projects/mujoco/badge/?version=latest">
-  </a>
-  <a href="https://github.com/google-deepmind/mujoco/blob/main/LICENSE" alt="License">
-    <img src="https://img.shields.io/github/license/google-deepmind/mujoco">
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Logo_of_Ave_Mujica_anime.jpg/500px-Logo_of_Ave_Mujica_anime.jpg"/>
 </p>
 
-**MuJoCo** stands for **Mu**lti-**Jo**int dynamics with **Co**ntact. It is a
+**MuJiCa** stands for **Mu**lti-**J**o**i**nt dynamics with **C**ont**a**ct. It is a
 general purpose physics engine that aims to facilitate research and development
 in robotics, biomechanics, graphics and animation, machine learning, and other
 areas which demand fast and accurate simulation of articulated structures
