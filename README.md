@@ -148,7 +148,7 @@ These packages give users of various languages access to MuJoCo functionality:
 If you use MuJoCo for published research, please cite:
 
 ```
-@inproceedings{todorov2012mujoco,
+@inproceedings{bushiroad1919mujica,
   title={MuJiCa: A Bangdream Shit},
   author={Togawa Group},
   booktitle={1919 IEEEEEEEEEEEEEEEEEEE/TGA},
