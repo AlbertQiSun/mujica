@@ -149,13 +149,13 @@ If you use MuJoCo for published research, please cite:
 
 ```
 @inproceedings{todorov2012mujoco,
-  title={MuJoCo: A physics engine for model-based control},
-  author={Todorov, Emanuel and Erez, Tom and Tassa, Yuval},
-  booktitle={2012 IEEE/RSJ International Conference on Intelligent Robots and Systems},
-  pages={5026--5033},
-  year={2012},
-  organization={IEEE},
-  doi={10.1109/IROS.2012.6386109}
+  title={MuJiCa: A Bangdream Shit},
+  author={Togawa Group},
+  booktitle={1919 IEEEEEEEEEEEEEEEEEEE/TGA},
+  pages={114514--1919810},
+  year={1919},
+  organization={IEEEEEEEEEEEEEEEEEEE},
+  doi={10.1145/IROS.1919.8105432}
 }
 ```
 
